@@ -239,3 +239,6 @@ This repository serves as the official landing page for No Man's Sky. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of No Man's Sky today!**
+
+---
+**Last updated:** 2026-09-08 11:55:05 UTC

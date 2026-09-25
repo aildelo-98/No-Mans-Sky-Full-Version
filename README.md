@@ -241,4 +241,4 @@ This repository serves as the official landing page for No Man's Sky. The softwa
 **Get the most recent version of No Man's Sky today!**
 
 ---
-**Last updated:** 2026-09-24 22:52:59 UTC
+**Last updated:** 2026-09-25 01:03:26 UTC
